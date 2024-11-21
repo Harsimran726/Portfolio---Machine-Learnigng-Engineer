@@ -1,15 +1,3 @@
-# Python Libraries Commonly Used in Django
-
-# Django itself
-pip install Django
-
-# For REST API development
-pip install djangorestframework
-
-# For CORS headers in APIs
-pip install django-cors-headers
-
-# For image handling
-pip install Pillow
-
-
+Django~=4.3.0
+whitenoise
+django-environ
